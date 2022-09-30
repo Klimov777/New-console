@@ -1,0 +1,15 @@
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\bin\Debug\net6.0\Exampels001_HelloConsole.exe
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\bin\Debug\net6.0\Exampels001_HelloConsole.deps.json
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\bin\Debug\net6.0\Exampels001_HelloConsole.runtimeconfig.json
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\bin\Debug\net6.0\Exampels001_HelloConsole.dll
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\bin\Debug\net6.0\Exampels001_HelloConsole.pdb
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.AssemblyInfo.cs
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.dll
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\obj\Debug\net6.0\refint\Exampels001_HelloConsole.dll
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.pdb
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.genruntimeconfig.cache
+C:\Users\klimo\Desktop\Examples\Exampels001_HelloConsole\obj\Debug\net6.0\ref\Exampels001_HelloConsole.dll
